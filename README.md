@@ -6,7 +6,7 @@
 - learning for me is just a fun way to discover new stuff.
   
 ### connect with me:
-<a href="https://www.linkedin.com/in/georgiofeghaly/"><img align="left" src="https://raw.githubusercontent.com/georgiofeghalygeorgiofeghaly/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/georgiofeghaly/"><img align="left" src="https://raw.githubusercontent.com/georgiofeghaly/georgiofeghaly/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/gio-feg/"><img align="left" src="https://raw.githubusercontent.com/georgiofeghaly/georgiofeghaly/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
 <!--
