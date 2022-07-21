@@ -2,7 +2,6 @@
 ### I'm a junior developer 💻 / DIYer 👷‍♂️. 
 <!-- a line space between the 2 sections-->
 - I love the idea of creating webistes and apps with only my laptop and my hands.
-- I'm always searching for new stuf to learn.
 - learning for me is just a fun way to discover new stuff.
   
 ### connect with me:
