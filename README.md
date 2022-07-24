@@ -1,9 +1,7 @@
 ### Hi there, I'm georgio 👋
-### I'm a junior developer 💻 / DIYer 👷‍♂️. 
+### I'm a developer 💻 / DIYer 👷‍♂️. 
 <!-- a line space between the 2 sections-->
-- I love the idea of creating webistes and apps with only my laptop and my hands.
-- learning for me is just a fun way to discover new stuff.
-  
+A highly motivated computer science student with a solid foundation in programming looking for an internship with an innovative company.
 
 > I'm currently working on:
   - my life :)
